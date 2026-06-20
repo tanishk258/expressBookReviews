@@ -1,0 +1,11 @@
+curl https://api.github.com/repos/tanishk258/expressBookReviews
+
+Output:
+
+{
+"name": "expressBookReviews",
+"fork": true,
+"parent": {
+"full_name": "ibm-developer-skills-network/expressBookReviews"
+}
+}

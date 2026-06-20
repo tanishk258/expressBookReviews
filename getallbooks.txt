@@ -12,10 +12,5 @@ Output:
 "author": "Hans Christian Andersen",
 "title": "Fairy tales",
 "reviews": {}
-},
-"3": {
-"author": "Dante Alighieri",
-"title": "The Divine Comedy",
-"reviews": {}
 }
 }
